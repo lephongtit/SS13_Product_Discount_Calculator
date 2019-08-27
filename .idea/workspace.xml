@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SS13_Product_Discount_Calculator:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91925671-c256-49b7-8080-da3842ce2f62" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ SS13_Simple_login/src/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/repository/GeneralRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/repository/Impl/ProductRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/service/GeneralService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KIEM_TRA_1/src/com/codegym/views/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS13_ java-web-currency-converter/src/ConverterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProductDiscountCaculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS13_Tu_dien_AnhViet/src/TranslationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_He_cac_hinh_hoc/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Circle_va_Cilynder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point2D_va_lop_Point3D_java/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Lop_Point_va_MoveablePoint/SS4_Lop_Point_va_MoveablePoint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS4_Thiet_ke_va_trien_khai_lop_Triangle/SS4_Thiet_ke_va_trien_khai_lop_Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS5_Interface_Colorable/src/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS5_Interface_Colorable/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS5_Interface_Colorable/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS5_Interface_Colorable/src/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS5_Interface_Colorable/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_Linked_List/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_Linked_List/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_Linkedlist/src/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_Linkedlist/src/TestMyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_lop_List_don_gian/src/MylistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_phuong_thuc/src/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS7_Trien_khai_phuong_thuc/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS8_TH_tach_bien/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS8_TH_tach_bien/test/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SS8_TH_tach_phuong_thuc/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sever_time/src/ServerTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/src/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/test/FizzBuzzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../WebstormProjects/Kiem_Tra_Giua_Md/Bai4.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="47" />
+              <folding>
+                <element signature="e#587#593#1#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ProductDiscountCaculatorServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Downloads/Compressed/apache-tomcat-9.0.24/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3449">
+              <caret line="253" selection-start-line="253" selection-end-line="253" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/ProductDiscountCaculatorServlet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="907" />
+    <option name="width" value="933" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SS13_Product_Discount_Calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SS13_Product_Discount_Calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SS13_Product_Discount_Calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SS13_Product_Discount_Calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/" />
+      <deployment>
+        <artifact name="SS13_Product_Discount_Calculator:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_SS13_Product_Discount_Calculator" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57366" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SS13_Product_Discount_Calculator:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91925671-c256-49b7-8080-da3842ce2f62" name="Default Changelist" comment="" />
+      <created>1566873496926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566873496926</updated>
+      <workItem from="1566873516127" duration="10469000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10469000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1480" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" sideWeight="0.500994" side_tool="true" visible="true" weight="0.02112676" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49900597" visible="true" weight="0.02112676" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Application Servers" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32573727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972898" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Downloads/Compressed/apache-tomcat-9.0.24/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3449">
+          <caret line="253" selection-start-line="253" selection-end-line="253" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="e#587#593#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ProductDiscountCaculatorServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="19" column="66" lean-forward="true" selection-start-line="19" selection-start-column="66" selection-end-line="19" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
